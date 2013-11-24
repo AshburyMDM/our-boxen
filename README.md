@@ -1,3 +1,19 @@
+# Ashbury MDM Developer Tools
+
+## Mobile app development
+* npm install ios-sim
+* npm install cordova
+* Android Studio
+* Java 6
+* Java 7
+* ant
+* maven
+* gradle
+
+## Server development
+* Eclipse
+* Heroku CLI
+
 # Our Boxen
 
 This is a template Boxen project designed for your organization to fork and
